@@ -29,10 +29,10 @@
 ## Заключение
 ### Таблица времени
 
-| Количество Элементов | стек на списках                  | стек на массивах                    | очередь на списках              | очередь на массивах             | 
-|---------------------:|----------------------------------|-------------------------------------|---------------------------------|---------------------------------|
-|1.000                 |    ![](./README_images/one.png)  |  ![](./README_images/two.png)       | ![](./README_images/three.png)  | ![](./README_images/four.png)   | 
-|10.000                |    ![](./README_images/five.png) |  ![](./README_images/sex.png)       | ![](./README_images/seven.png)  | ![](./README_images/eight.png)  |
+| Количество Элементов | стек на списках                            | стек на массивах                        | очередь на списках             | очередь на массивах             | 
+|---------------------:|--------------------------------------------|-----------------------------------------|---------------------------------|---------------------------------|
+|1.000                 |![](./README_images/README_images/one.png)  |![](./README_images/README_images/two.png)|![](./README_images/README_images/three.png)|![](./README_images/README_images/four.png)| 
+|10.000                |![](./README_images/README_images/five.png) |![](./README_images/README_images/sex.png)|![](./README_images/README_images/seven.png)|![](./README_images/README_images/eight.png)  |
 
 
 
