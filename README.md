@@ -1,10 +1,13 @@
 # Алгоритмы тренировка
 ## Задача: реализовать очередь и стек на массивах и на списках
 
-![](".\README_images\QueueList.png")
-![]("https://cdn.javarush.com/images/article/3d38727d-28c5-474f-99a1-3c2c02ee66bc/800.jpeg")
+![](./README_images/стек.jpg)
+
+![](./README_images/очередь.png)
 
 ## Графическое представление решения задачи
+![](./README_images/графрел_1.jpg)
+![](./README_images/графрел_2.jpg)
 
 
 ## Пограничные случаи
