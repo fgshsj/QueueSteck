@@ -6,8 +6,8 @@
 ![](./README_images/очередь.png)
 
 ## Графическое представление решения задачи
-![](./README_images/графрел_1.jpg)
-![](./README_images/графрел_2.jpg)
+![](./README_images/граф%20рел_1.jpg)
+![](./README_images/граф%21рел_2.jpg)
 
 
 ## Пограничные случаи
